@@ -6,6 +6,8 @@ ToastMod adds several items:
 
 **Toast**: Gives 1/2 more drumsticks compared to normal bread and can be obtained by cooking bread slices in a furnace.
 
+**Fire Toast**: It is the same as normal toast but you get 30 seconds of Fire Res. II and 10 seconds of Strength I and can be obtained by placing Toast and Blaze Powder anywhere in a crafting grid as small as 2x2 slots.
+
 **Burnt Toast**: It is not edible. Obtainable by putting toast in a furnace. Why would you do this.
 
 **Raw Enderman**: Gives +1 drumstick with a 50/50 chance to give you the hunger effect and teleport you to a random place in a 16 block radius, obtainable by killing an enderman
