@@ -1,0 +1,10 @@
+{
+  "item.toastmod.bread_slice": "Bread Slice",
+  "item.toastmod.toast": "Toast",
+  "item.toastmod.burnt_toast": "Burnt Toast",
+  "item.toastmod.burnt_toast.description": ":(",
+  "item.toastmod.raw_enderman": "Raw Enderman",
+  "item.toastmod.cooked_enderman": "Cooked Enderman",
+
+  "itemGroup.toastmod.toast_group": "ToastMod"
+}
