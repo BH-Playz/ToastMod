@@ -1,0 +1,25 @@
+{
+	"schemaVersion": 1,
+	"id": "toastmod",
+	"version": "1.0.7",
+	"name": "ToastMod",
+	"description": "Everyone loves toast, right?",
+	"authors": [
+		"BananaBH"
+	],
+	"contact": {
+	},
+	"license": "MIT i think",
+	"icon": "assets/toastmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.bananabh.toastmod.ToastMod"
+		]
+	},
+	"depends": {
+		"minecraft": ">=1.19.3 <=1.19.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}
