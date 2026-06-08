@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": { "item": "toastmod:raw_enderman" },
+  "result": { "id": "toastmod:cooked_enderman" },
+  "experience": 0.35,
+  "cookingtime": 200
+}

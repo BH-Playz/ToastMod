@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": { "item": "toastmod:toast" },
+  "result": { "id": "toastmod:burnt_toast" },
+  "experience": 0,
+  "cookingtime": 200
+}
