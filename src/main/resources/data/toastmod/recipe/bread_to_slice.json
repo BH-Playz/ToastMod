@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:bread"
+  },
+  "result": {
+    "id": "toastmod:bread_slice",
+    "count": 4
+  }
+}
